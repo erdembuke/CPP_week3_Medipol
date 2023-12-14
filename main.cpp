@@ -27,7 +27,7 @@ int main() {
     cout << "final notu:";
     cin >> final;
 
-    avg = (vize * 0.3) + (final * 0.7);
+    avg = (vize * 0.4) + (final * 0.6);
 
     cout << "ortalamaniz " << avg;
 
